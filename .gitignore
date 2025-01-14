@@ -170,3 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
+Desktop/diabetes_prediction/
+Desktop/diabetes_prediction/
