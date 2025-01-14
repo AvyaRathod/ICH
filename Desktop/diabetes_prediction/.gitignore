@@ -1,5 +1,0 @@
-venv/
-diabetes_model.pkl
-diabetes_prediction.code-workspace
-*.pyc
-__pycache__/
